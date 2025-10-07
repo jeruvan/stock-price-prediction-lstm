@@ -67,12 +67,7 @@ stock-price-prediction-lstm/
 
 > These figures vary by train/test split and seed but illustrate relative difficulty across tickers.
 
-## 🖼️ Screenshots (add yours)
-Place images in `assets/` and embed below, e.g.:
-```
-![AAPL actual vs predicted](assets/aapl_pred.png)
-![Interactive widget](assets/widget.png)
-```
+
 
 ## 🧩 Key implementation notes
 - Sliding window creation for sequences (`n_steps=60`).
