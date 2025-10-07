@@ -1,0 +1,24 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environments
+.venv/
+.env
+env/
+venv/
+
+# Data dumps (keep small samples only)
+data/*.csv
+data/*.parquet
+data/*.xlsx
+!data/README.md
+
+# Outputs
+reports/*.html
+reports/*.log
